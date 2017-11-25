@@ -1,7 +1,7 @@
-// Questão 4a: Crie uma funcionalidade que solicita do usuário o nome de um país e retorne
-// adiferença de medalhas de ouro, de prata e de bronze desse país em relação aos EUA, 
-// conforme os dados importados dos arquivos.
-
+/*Questão 4a: Crie uma funcionalidade que solicita do usuário o nome de um país e retorne
+ *  adiferençademedalhasdeouro,deprataede bronze desse paísem relação aos EUA,
+ *  conforme os dados importados dos arquivos.
+ */
 package control;
 
 import java.util.ArrayList;
